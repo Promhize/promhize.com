@@ -1,2 +1,2 @@
 # promhize
-Website
+Curated works
