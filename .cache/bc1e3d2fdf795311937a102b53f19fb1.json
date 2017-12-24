@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./routes.tsx","loc":{"line":3,"column":27}}],"generated":{"js":"\"use strict\";\n\nexports.__esModule = true;\nvar routes_tsx_1 = require(\"./routes.tsx\");\nexports[\"default\"] = routes_tsx_1.View;"},"hash":"5fdc228285873b878b00ba673c8dd8a0"}
