@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"react","loc":{"line":1,"column":18}}],"generated":{"js":"\"use strict\";\n\nvar _react = require(\"react\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }"},"hash":"1515b0494b5f2ed876f4bd16841753e0"}
